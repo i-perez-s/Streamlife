@@ -1,3 +1,6 @@
 [submodule "streamlife-server"]
 	path = streamlife-server
 	url = https://github.com/i-perez-s/streamlife-server
+[submodule "streamlife-client"]
+	path = streamlife-client
+	url = https://github.com/i-perez-s/streamlife-client
